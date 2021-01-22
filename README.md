@@ -3,6 +3,7 @@
 Key concepts:
 * Traversing arrays
 * Two pointer approach
+* Optimizing values
 
 ### Problem 2. Bull in a China Shop
 Key concepts:
