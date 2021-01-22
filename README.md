@@ -15,6 +15,6 @@ Key concepts:
 * Classes
 * Comparators/Comparable
 
-###Common trends:
+### Common trends:
 * File input/output
 * String manipulation
