@@ -3,6 +3,7 @@
 Key concepts:
 * Traversing arrays
 * Two pointer approach
+* Optimizing values
 
 ### Problem 2. Bull in a China Shop
 Key concepts:
@@ -15,6 +16,6 @@ Key concepts:
 * Classes
 * Comparators/Comparable
 
-Common trends:
+### Common trends:
 * File input/output
 * String manipulation
